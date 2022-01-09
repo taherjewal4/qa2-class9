@@ -8,7 +8,8 @@ import java.util.Properties;
 public class Phone {
 
     /**
-     * 3 types of Inner Class
+     * Three types of Inner Class
+     *
      * 1) Member Class
      * 2) static class
      * 3) Anonymous class
